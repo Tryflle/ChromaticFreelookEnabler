@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "freelookenabler",
+  "name": "Freelook Enabler",
+  "version": "${version}",
+  "environment": "*",
+  "description": "enables freelook on all servers",
+  "authors": ["Tryfle"],
+  "mixins": [ "freelook-enabler.mixins.json" ]
+}
